@@ -96,3 +96,7 @@ node tools/simulate.mjs
 Moving platforms, a fire-flower power-up, breakable-block puzzles, a boss
 fight, checkpoints mid-level, a level editor that serialises the builder calls,
 or per-level high scores in `localStorage`.
+
+## License
+
+MIT — see [LICENSE](LICENSE). Do what you like with it.
