@@ -1,5 +1,9 @@
 # Super Pip World
 
+[![tests](https://github.com/larrybuckalew/super-pip-world/actions/workflows/tests.yml/badge.svg)](https://github.com/larrybuckalew/super-pip-world/actions/workflows/tests.yml)
+
+**▶ [Play it in your browser](https://larrybuckalew.github.io/super-pip-world/)** — nothing to install.
+
 A Mario-style side-scrolling platformer that runs in a single file. Double-click
 `index.html` — no build step, no server, no dependencies, no asset files. Every
 pixel is drawn with canvas primitives and every sound is synthesised with
